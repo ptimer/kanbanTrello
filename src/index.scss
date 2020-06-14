@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+	margin: 0;
+}
+
+html, body, #root{
+	height: 100%;
+}
+
+#root{
+	background-image: url('https://image.freepik.com/free-vector/_1035-17545.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
